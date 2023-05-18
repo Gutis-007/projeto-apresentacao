@@ -1,0 +1,13 @@
+body.modo-claro {
+    background-color: #dddbdb;
+    color: #000000;
+}
+
+body.modo-claro header{
+    background-color: #868686;
+    color: #000000;
+}
+body.modo-claro footer{
+    background-color: #868686;
+    color: #000000;
+}
