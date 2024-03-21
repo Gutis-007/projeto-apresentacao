@@ -37,8 +37,8 @@ main .techs .cards-conteiner{
 }
 
 main .techs .cards-conteiner .card{
-    width: 120px;
-    height: 120px;
+    width: 100px;
+    height: 100px;
     padding: 10px;
     background-color: #eee;
     border-radius: 8px;
@@ -87,10 +87,9 @@ main figure img:hover{
     box-shadow: 0px 0px 6px #00eff0;
 }
 
-
-
-
-
+.Projetos{
+    margin: 12px;
+}
 
 
 
