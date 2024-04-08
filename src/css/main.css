@@ -34,7 +34,7 @@ main .main-content p {
 main .techs .cards-conteiner{
     display: flex;
     align-items: center;
-    flex-warp: warp;
+    flex-wrap: wrap;
     justify-content: center;
     gap: 10px;
 }
